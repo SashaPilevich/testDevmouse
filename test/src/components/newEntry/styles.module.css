@@ -1,0 +1,6 @@
+.entryContainer {
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  margin-bottom: 50px;
+}
